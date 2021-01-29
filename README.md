@@ -1,2 +1,2 @@
 # SliderJS
-![N|Solid](https://imgur.com/a/i2OHbNi)
+![N|Solid](https://i.imgur.com/Rw3D8wk.gif)
